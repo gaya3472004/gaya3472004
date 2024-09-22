@@ -26,7 +26,7 @@ I'm an enthusiastic student and aspiring developer currently learning how to bui
 
 ### 🌟 My MiniProjects:
 
-- [**Memory Allocation Simulation**]  
+- [**Memory Allocation Simulation**] (https://github.com/gaya3472004/Memory-Simulation-using-Java/tree/main)
   A Java program that simulates memory allocation strategies (First Fit, Best Fit, Worst Fit) using a graphical user interface (GUI) to visualize how memory is managed in different scenarios.
 
 - [**Smart Streetlight System**]  
