@@ -44,6 +44,5 @@ I'm an enthusiastic student and aspiring developer currently learning how to bui
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/gayathri-b-119a15257?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzT0A%2F3YhSvi8TiHGvJWZdg%3D%3D)
 
-
 ## 🌐 Using Languages
-![gaya3472004 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaya3472004&theme=radical&show_icons=true&hide_border=false&layout=compact)
+![gaya3472004 All Languages](https://github-readme-stats.vercel.app/api/languages/?username=gaya3472004&theme=radical&show_icons=true&hide_border=false&layout=compact)
