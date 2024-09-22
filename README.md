@@ -1,6 +1,6 @@
 # Hello I'm Gayathri.B 👋
 
-I'm a passionate student and developer who enjoys working on innovative projects with my teammates in Data Science, IoT, and Web Development. With hands-on experience in various technologies and frameworks, I'm constantly exploring new ideas and contributing to impactful solutions. I'm particularly focused on building smart systems and data analytic tools.
+I'm an enthusiastic student and aspiring developer currently learning how to build solutions in Data Science, IoT, and Web Development. With the support of  my friends & tools, I've been able to work on several exciting projects, and I'm always eager to learn more and grow my skills in various technologies!
 
 ### 🚀 About Me:
 
@@ -42,7 +42,7 @@ I'm a passionate student and developer who enjoys working on innovative projects
 
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/gayathri-b-119a15257?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzT0A%2F3YhSvi8TiHGvJWZdg%3D%3D)
-[Gmail](gayathri.cse.vec@gmail.com)
+
 
 
 ## Using Languages
