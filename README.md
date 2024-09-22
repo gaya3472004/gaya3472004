@@ -33,7 +33,7 @@ I'm an enthusiastic student and aspiring developer currently learning how to bui
 - [**Smart Streetlight System**]  
   An IoT-based system that optimizes energy consumption by controlling streetlights based on motion detection and ambient light sensing.
 
-- [**Data Analytic Tool**](https://github.com/your-username/data-analytic-tool)  
+- [**Data Analytic Tool**](https://github.com/gaya3472004/DataAnalyticTool/tree/main)  
   A web-based tool that processes and visualizes data from different sources, using MapReduce and generating PDF reports with dynamic visualizations.
 
 -
