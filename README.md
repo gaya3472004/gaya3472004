@@ -1,38 +1,48 @@
 # Hello I'm Gayathri.B 👋
 
-I'm a passionate student and developer who enjoys working on innovative projects in Data Science, IoT, and Web Development. With hands-on experience in various technologies and frameworks, I'm constantly exploring new ideas and contributing to impactful solutions. I'm particularly focused on building smart systems and data analytic tools.
+I'm a passionate student and developer who enjoys working on innovative projects with my teammates in Data Science, IoT, and Web Development. With hands-on experience in various technologies and frameworks, I'm constantly exploring new ideas and contributing to impactful solutions. I'm particularly focused on building smart systems and data analytic tools.
 
 ### 🚀 About Me:
-- 🔭 Currently working on **IoT-Enabled Wall Cooling System** and a **Book Management System**
-- 🌱 Exploring **Hadoop, Spark**, and large-scale data analysis
-- 💻 Proficient in **Python, Flask, Java, JavaScript**, and **Node.js**
-- 🛠️ Learning: **React** and enhancing my **Full Stack Development** skills
+
+- 💡 I have proposed ideas like the **Smart Wall Cooling System**, which I plan to start soon
+- 🤝 I’m open to collaborating on beginner-friendly projects and learning new technologies
+- 🎓 I’m building a foundation in **Java**, and **DSA**
 - 🎓 Gained experience from inplant training in **Data Science**
 - 🏆 Received an award for excellence in **virtual and online classes**
-  
+
+- 
 ### 🛠️ Technologies & Tools:
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) 
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) 
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white)
 
-### 🌟 My Projects:
 
-- [**Smart Streetlight System**](https://github.com/your-username/smart-streetlight-system)  
+### 💡 Proposed Idea:
+
+- **Smart Wall Cooling System** (In Planning)  
+ A future project aimed at developing an IoT-enabled cooling system for walls using an ESP32 microcontroller, temperature sensors, and circulating water pipes to regulate indoor temperature. This system is designed as an alternative to traditional air conditioning, helping to avoid potential health issues associated with prolonged AC use, such as dry air and respiratory problems. The goal is to provide an energy-efficient and eco-friendly solution to reduce indoor heat without compromising air quality. I'm excited to start working on this idea soon!
+
+
+### 🌟 My MiniProjects:
+
+- [**Memory Allocation Simulation**]  
+  A Java program that simulates memory allocation strategies (First Fit, Best Fit, Worst Fit) using a graphical user interface (GUI) to visualize how memory is managed in different scenarios.
+
+- [**Smart Streetlight System**]  
   An IoT-based system that optimizes energy consumption by controlling streetlights based on motion detection and ambient light sensing.
-
-- [**IoT-Enabled Wall Cooling System**](https://github.com/your-username/wall-cooling-system)  
-  A smart cooling system using an ESP32 microcontroller, DHT22 sensors, and a water pump to regulate indoor temperature, remotely monitored via Wi-Fi.
 
 - [**Data Analytic Tool**](https://github.com/your-username/data-analytic-tool)  
   A web-based tool that processes and visualizes data from different sources, using MapReduce and generating PDF reports with dynamic visualizations.
 
-- [**Book Management System**](https://github.com/your-username/book-management-system)  
-  A user-friendly web app for managing personal libraries, tracking reading history, and requesting new books from an admin with MongoDB backend and Node.js.
+-
 
 ### 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaya3472004&show_icons=true&theme=radical)
 
 ### 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/your-username)
-- [Twitter](https://twitter.com/your-username)
+- [LinkedIn](https://www.linkedin.com/in/gayathri-b-119a15257?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzT0A%2F3YhSvi8TiHGvJWZdg%3D%3D)
+[Gmail](gayathri.cse.vec@gmail.com)
 
 
 ## Using Languages
