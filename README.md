@@ -24,6 +24,7 @@ I'm an enthusiastic pre-final year student and aspiring developer currently lear
 [<img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white">](#)  
 [<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white">](#)  
 [<img src="https://img.shields.io/badge/-phpMyAdmin-6C78AF?logo=phpmyadmin&logoColor=white">](#)  
+[<img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white">](#)  
 
 ### 🌟 My MiniProjects:
 
