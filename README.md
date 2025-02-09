@@ -1,4 +1,4 @@
-# Hello, I'm Gayathri B 👋
+  # Hello, I'm Gayathri B 👋
 
 I'm an enthusiastic pre-final year student and aspiring developer currently learning how to build solutions in **IoT** and **Web Development**. With the support of my friends & tools, I've been able to work on several exciting projects, and I'm always eager to learn more and grow my skills in various technologies!
 
@@ -12,16 +12,24 @@ I'm an enthusiastic pre-final year student and aspiring developer currently lear
 ### 🏆 Coding Profiles:
 
 - **LeetCode**  
-  [![LeetCode](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)](https://leetcode.com/YourProfileLink)  
+  <a href="https://leetcode.com/YourProfileLink">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="80">
+  </a>  
 
 - **GeeksforGeeks**  
-  [![GeeksforGeeks](https://media.geeksforgeeks.org/wp-content/uploads/20210402234952/GeeksforGeeksLogo.png)](https://auth.geeksforgeeks.org/user/YourProfileLink/)  
+  <a href="https://auth.geeksforgeeks.org/user/YourProfileLink/">
+    <img src="https://media.geeksforgeeks.org/wp-content/uploads/20210402234952/GeeksforGeeksLogo.png" alt="GeeksforGeeks" width="100">
+  </a>  
 
 - **CodeNaukri**  
-  [![CodeNaukri](https://codenaukri.com/favicon.ico)](https://codenaukri.com/profile/YourProfileLink)  
+  <a href="https://codenaukri.com/profile/YourProfileLink">
+    <img src="https://codenaukri.com/favicon.ico" alt="CodeNaukri" width="60">
+  </a>  
 
 - **HackerRank**  
-  [![HackerRank](https://avatars.githubusercontent.com/u/15943926?s=200&v=4)](https://www.hackerrank.com/YourProfileLink)  
+  <a href="https://www.hackerrank.com/YourProfileLink">
+    <img src="https://avatars.githubusercontent.com/u/15943926?s=200&v=4" alt="HackerRank" width="80">
+  </a>  
 
 ### 🛠️ Technologies & Tools:
 
