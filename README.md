@@ -10,12 +10,12 @@ I'm an enthusiastic pre-final year student and aspiring developer currently lear
 - 🏆 Received an award for excellence in **virtual and online classes**  
 
 ### 🏆 Coding Profiles:
+- [LeetCode](https://leetcode.com/u/gayathribks0407/)  
+- [GeeksforGeeks](https://www.geeksforgeeks.org/user/gayathrif997/)  
+- [CodeNaukri](https://www.naukri.com/code360/profile/gayathribks)  
+- [HackerRank](https://www.hackerrank.com/profile/gayathribks0407)
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="50">](https://leetcode.com/u/gayathribks0407/)  
-[<img src="https://media.geeksforgeeks.org/wp-content/uploads/20210402234952/GeeksforGeeksLogo.png" width="50">](https://www.geeksforgeeks.org/user/gayathrif997/)  
-[<img src="https://static.naukimg.com/s/4/100/i/naukri_Logo.png" width="50">](https://www.naukri.com/code360/profile/gayathribks)  
-[<img src="https://avatars.githubusercontent.com/u/15943926?s=200&v=4" width="50">](https://www.hackerrank.com/profile/gayathribks0407)  
-
+  
 ### 🛠️ Technologies & Tools:
 
 [<img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white">](#)  
