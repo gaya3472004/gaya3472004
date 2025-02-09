@@ -3,11 +3,11 @@
 I'm an enthusiastic pre-final year student and aspiring developer currently learning how to build solutions in **IoT** and **Web Development**. With the support of my friends & tools, I've been able to work on several exciting projects, and I'm always eager to learn more and grow my skills in various technologies!  
 
 ### 🚀 About Me:
-- 🎓 **Extern** at **OneYes Infotech Solutions**  
+- 🎓 **Ex-Intern** at **OneYes Infotech Solutions**  
 - 🤝 I’m open to collaborating on beginner-friendly projects and learning new technologies  
 - 🎓 I’m building a foundation in **Java** and **DSA**  
-- 🎓 Gained experience from in-plant training in **Data Science**  
-- 🏆 Received an award for excellence in **virtual and online classes**  
+- 🎓 Gained experience from In-plant training in **Data Science**  
+- 🏆 Received an award for **Excellence in virtual and online classes**  
 
 ### 🏆 Coding Profiles:
 - [LeetCode](https://leetcode.com/u/gayathribks0407/)  
