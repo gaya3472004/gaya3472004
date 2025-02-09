@@ -1,4 +1,4 @@
-  # Hello, I'm Gayathri B 👋
+# Hello, I'm Gayathri B 👋
 
 I'm an enthusiastic pre-final year student and aspiring developer currently learning how to build solutions in **IoT** and **Web Development**. With the support of my friends & tools, I've been able to work on several exciting projects, and I'm always eager to learn more and grow my skills in various technologies!
 
@@ -11,32 +11,17 @@ I'm an enthusiastic pre-final year student and aspiring developer currently lear
 
 ### 🏆 Coding Profiles:
 
-- **LeetCode**  
-  <a href="https://leetcode.com/YourProfileLink">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="80">
-  </a>  
-
-- **GeeksforGeeks**  
-  <a href="https://auth.geeksforgeeks.org/user/YourProfileLink/">
-    <img src="https://media.geeksforgeeks.org/wp-content/uploads/20210402234952/GeeksforGeeksLogo.png" alt="GeeksforGeeks" width="100">
-  </a>  
-
-- **CodeNaukri**  
-  <a href="https://codenaukri.com/profile/YourProfileLink">
-    <img src="https://codenaukri.com/favicon.ico" alt="CodeNaukri" width="60">
-  </a>  
-
-- **HackerRank**  
-  <a href="https://www.hackerrank.com/YourProfileLink">
-    <img src="https://avatars.githubusercontent.com/u/15943926?s=200&v=4" alt="HackerRank" width="80">
-  </a>  
+[![LeetCode](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)](https://leetcode.com/YourProfileLink)  
+[![GeeksforGeeks](https://media.geeksforgeeks.org/wp-content/uploads/20210402234952/GeeksforGeeksLogo.png)](https://auth.geeksforgeeks.org/user/YourProfileLink/)  
+[![CodeNaukri](https://codenaukri.com/favicon.ico)](https://codenaukri.com/profile/YourProfileLink)  
+[![HackerRank](https://avatars.githubusercontent.com/u/15943926?s=200&v=4)](https://www.hackerrank.com/YourProfileLink)  
 
 ### 🛠️ Technologies & Tools:
 
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)  
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white)  
+[![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)](#)  
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](#)  
+[![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)](#)  
+[![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white)](#)  
 
 ### 🌟 My MiniProjects:
 
@@ -47,4 +32,5 @@ I'm an enthusiastic pre-final year student and aspiring developer currently lear
   An IoT-based system that optimizes energy consumption by controlling streetlights based on motion detection and ambient light sensing.
 
 ### 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/gayathri-b-119a15257?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzT0A%2F3YhSvi8TiHGvJWZdg%3D%3D)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayathri-b-119a15257)
+
