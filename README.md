@@ -3,6 +3,7 @@
 I'm an enthusiastic pre-final year student and aspiring developer currently learning how to build solutions in **IoT** and **Web Development**. With the support of my friends & tools, I've been able to work on several exciting projects, and I'm always eager to learn more and grow my skills in various technologies!  
 
 ### 🚀 About Me:
+- 🎓 **Intern** at **LtiMindtree**  
 - 🎓 **Ex-Intern** at **OneYes Infotech Solutions**  
 - 🤝 I’m open to collaborating on beginner-friendly projects and learning new technologies  
 - 🎓 I’m building a foundation in **Java** and **DSA**  
@@ -28,8 +29,8 @@ I'm an enthusiastic pre-final year student and aspiring developer currently lear
 
 ### 🌟 My MiniProjects:
 
-- [**Memory Allocation Simulation**](https://github.com/gaya3472004/Memory-Simulation-using-Java/tree/main)  
-  A Java program that simulates memory allocation strategies (First Fit, Best Fit, Worst Fit) using a graphical user interface (GUI) to visualize how memory is managed in different scenarios.
+- [**Iot System Performance Monitor**]([https://github.com/gaya3472004/Memory-Simulation-using-Java/tree/main](https://github.com/gaya3472004/IOT-System-performance-Monitor))  
+  This project is an IoT system performance monitoring and analytics solution designed to track and analyze system metrics in real-time. It provides users with actionable insights into system performance, enabling real-time monitoring, historical trend analysis, and predictive analytics.
 
 - [**Smart Streetlight System**]  
   An IoT-based system that optimizes energy consumption by controlling streetlights based on motion detection and ambient light sensing.
