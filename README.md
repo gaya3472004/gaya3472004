@@ -11,8 +11,8 @@ I'm an enthusiastic pre-final year student and aspiring developer currently lear
 - 🏆 Received an award for **Excellence in virtual and online classes**  
 
 ### 🏆 Coding Profiles:
-- [LeetCode](https://leetcode.com/u/gayathribks0407/)  
-- [GeeksforGeeks](https://www.geeksforgeeks.org/user/gayathrif997/)  
+- [GeeksforGeeks](https://www.geeksforgeeks.org/user/gayathrif997/) 
+- [LeetCode](https://leetcode.com/u/gayathribks0407/)   
 - [CodeNaukri](https://www.naukri.com/code360/profile/gayathribks)  
 - [HackerRank](https://www.hackerrank.com/profile/gayathribks0407)
 
@@ -27,13 +27,7 @@ I'm an enthusiastic pre-final year student and aspiring developer currently lear
 [<img src="https://img.shields.io/badge/-phpMyAdmin-6C78AF?logo=phpmyadmin&logoColor=white">](#)  
 [<img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white">](#)  
 
-### 🌟 My MiniProjects:
 
-- [**Iot System Performance Monitor**]([https://github.com/gaya3472004/Memory-Simulation-using-Java/tree/main](https://github.com/gaya3472004/IOT-System-performance-Monitor))  
-  This project is an IoT system performance monitoring and analytics solution designed to track and analyze system metrics in real-time. It provides users with actionable insights into system performance, enabling real-time monitoring, historical trend analysis, and predictive analytics.
-
-- [**Smart Streetlight System**]  
-  An IoT-based system that optimizes energy consumption by controlling streetlights based on motion detection and ambient light sensing.
 
 ### 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayathri-b-119a15257)
