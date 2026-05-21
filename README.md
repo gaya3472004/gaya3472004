@@ -1,9 +1,9 @@
 # Hello, I'm Gayathri B 👋  
 
-I'm an enthusiastic final year student and aspiring developer currently learning how to build solutions in **IoT** and **Web Development**. With the support of my friends & tools, I've been able to work on several exciting projects, and I'm always eager to learn more and grow my skills in various technologies!  
+I'm an enthusiastic fresher and aspiring developer learning how to build solutions in **IoT** and **Web Development**. With the support of my friends & tools, I've been able to work on several exciting projects, and I'm always eager to learn more and grow my skills in various technologies!  
 
 ### 🚀 About Me:
-- 🎓 **Intern** at **LTIMindtree**  
+- 🎓 **Ex-Intern** at **LTIMindtree**  
 - 🎓 **Ex-Intern** at **OneYes Infotech Solutions**  
 - 🤝 I’m open to collaborating on beginner-friendly projects and learning new technologies  
 - 🎓 I’m building a foundation in various domains  
