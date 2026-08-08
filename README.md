@@ -3,6 +3,7 @@
 I'm an enthusiastic fresher and aspiring developer learning how to build solutions in **IoT** and **Web Development**. With the support of my friends & tools, I've been able to work on several exciting projects, and I'm always eager to learn more and grow my skills in various technologies!  
 
 ### 🚀 About Me:
+- 🎓 **Software Intern** at **SPI Aviation** 
 - 🎓 **Ex-Intern** at **LTIMindtree**  
 - 🎓 **Ex-Intern** at **OneYes Infotech Solutions**  
 - 🤝 I’m open to collaborating on beginner-friendly projects and learning new technologies  
